@@ -1,0 +1,236 @@
+[21:31:20] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[21:31:21] [main/INFO]: Reloading ResourceManager: Default, bukkit
+[21:31:23] [Worker-Main-14/INFO]: Loaded 7 recipes
+[21:31:28] [Server thread/INFO]: Starting minecraft server version 1.16.4
+[21:31:28] [Server thread/INFO]: Loading properties
+[21:31:29] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-37d799b-3eb7236 (MC: 1.16.4) (Implementing API version 1.16.4-R0.1-SNAPSHOT)
+[21:31:29] [Server thread/INFO]: Debug logging is disabled
+[21:31:29] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[21:31:29] [Server thread/INFO]: Using 4 threads for Netty based IO
+[21:31:29] [Server thread/INFO]: Default game type: SURVIVAL
+[21:31:29] [Server thread/INFO]: Generating keypair
+[21:31:30] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:31:30] [Server thread/INFO]: Using default channel type
+[21:31:30] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[21:31:30] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[21:31:30] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[21:31:30] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[21:31:30] [Server thread/INFO]: Preparing level "world"
+[21:31:31] [Server thread/INFO]: -------- World Settings For [world] --------
+[21:31:31] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[21:31:31] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[21:31:31] [Server thread/INFO]: Item Merge Radius: 2.5
+[21:31:31] [Server thread/INFO]: Item Despawn Rate: 6000
+[21:31:31] [Server thread/INFO]: View Distance: 10
+[21:31:31] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[21:31:31] [Server thread/INFO]: Mob Spawn Range: 6
+[21:31:31] [Server thread/INFO]: Experience Merge Radius: 3.0
+[21:31:31] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[21:31:31] [Server thread/INFO]: Cane Growth Modifier: 100%
+[21:31:31] [Server thread/INFO]: Melon Growth Modifier: 100%
+[21:31:31] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[21:31:31] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[21:31:31] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[21:31:31] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[21:31:31] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[21:31:31] [Server thread/INFO]: Potato Growth Modifier: 100%
+[21:31:31] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[21:31:31] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[21:31:31] [Server thread/INFO]: Vine Growth Modifier: 100%
+[21:31:31] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[21:31:31] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[21:31:31] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[21:31:31] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[21:31:31] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[21:31:31] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[21:31:31] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[21:31:31] [Server thread/INFO]: Max TNT Explosions: 100
+[21:31:31] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[21:31:31] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[21:31:31] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[21:31:31] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[21:31:31] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[21:31:31] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[21:31:31] [Server thread/INFO]: Item Merge Radius: 2.5
+[21:31:31] [Server thread/INFO]: Item Despawn Rate: 6000
+[21:31:31] [Server thread/INFO]: View Distance: 10
+[21:31:31] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[21:31:31] [Server thread/INFO]: Mob Spawn Range: 6
+[21:31:31] [Server thread/INFO]: Experience Merge Radius: 3.0
+[21:31:31] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[21:31:31] [Server thread/INFO]: Cane Growth Modifier: 100%
+[21:31:31] [Server thread/INFO]: Melon Growth Modifier: 100%
+[21:31:31] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[21:31:31] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[21:31:31] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[21:31:31] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[21:31:31] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[21:31:31] [Server thread/INFO]: Potato Growth Modifier: 100%
+[21:31:31] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[21:31:31] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[21:31:31] [Server thread/INFO]: Vine Growth Modifier: 100%
+[21:31:31] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[21:31:31] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[21:31:31] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[21:31:31] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[21:31:31] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[21:31:31] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[21:31:31] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[21:31:31] [Server thread/INFO]: Max TNT Explosions: 100
+[21:31:31] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[21:31:31] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[21:31:31] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[21:31:31] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[21:31:31] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[21:31:31] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[21:31:31] [Server thread/INFO]: Item Merge Radius: 2.5
+[21:31:31] [Server thread/INFO]: Item Despawn Rate: 6000
+[21:31:31] [Server thread/INFO]: View Distance: 10
+[21:31:31] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[21:31:31] [Server thread/INFO]: Mob Spawn Range: 6
+[21:31:31] [Server thread/INFO]: Experience Merge Radius: 3.0
+[21:31:31] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[21:31:31] [Server thread/INFO]: Cane Growth Modifier: 100%
+[21:31:31] [Server thread/INFO]: Melon Growth Modifier: 100%
+[21:31:31] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[21:31:31] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[21:31:31] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[21:31:31] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[21:31:31] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[21:31:31] [Server thread/INFO]: Potato Growth Modifier: 100%
+[21:31:31] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[21:31:31] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[21:31:31] [Server thread/INFO]: Vine Growth Modifier: 100%
+[21:31:31] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[21:31:31] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[21:31:31] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[21:31:31] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[21:31:31] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[21:31:31] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[21:31:31] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[21:31:31] [Server thread/INFO]: Max TNT Explosions: 100
+[21:31:31] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[21:31:31] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[21:31:31] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[21:31:31] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:31:33] [Server thread/INFO]: Preparing spawn area: 0%
+[21:31:33] [Server thread/INFO]: Preparing spawn area: 0%
+[21:31:33] [Server thread/INFO]: Preparing spawn area: 0%
+[21:31:33] [Server thread/INFO]: Preparing spawn area: 0%
+[21:31:33] [Server thread/INFO]: Preparing spawn area: 0%
+[21:31:34] [Server thread/INFO]: Preparing spawn area: 47%
+[21:31:34] [Server thread/INFO]: Preparing spawn area: 53%
+[21:31:34] [Server thread/INFO]: Time elapsed: 3417 ms
+[21:31:34] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[21:31:36] [Server thread/INFO]: Preparing spawn area: 0%
+[21:31:36] [Server thread/INFO]: Preparing spawn area: 0%
+[21:31:36] [Server thread/INFO]: Preparing spawn area: 0%
+[21:31:36] [Server thread/INFO]: Preparing spawn area: 0%
+[21:31:36] [Server thread/INFO]: Preparing spawn area: 55%
+[21:31:37] [Worker-Main-9/INFO]: Preparing spawn area: 90%
+[21:31:37] [Worker-Main-9/INFO]: Preparing spawn area: 90%
+[21:31:38] [Worker-Main-14/INFO]: Preparing spawn area: 90%
+[21:31:38] [Worker-Main-11/INFO]: Preparing spawn area: 90%
+[21:31:39] [Worker-Main-14/INFO]: Preparing spawn area: 90%
+[21:31:39] [Worker-Main-12/INFO]: Preparing spawn area: 90%
+[21:31:40] [Worker-Main-14/INFO]: Preparing spawn area: 90%
+[21:31:40] [Worker-Main-9/INFO]: Preparing spawn area: 90%
+[21:31:41] [Worker-Main-14/INFO]: Preparing spawn area: 91%
+[21:31:41] [Worker-Main-12/INFO]: Preparing spawn area: 92%
+[21:31:42] [Worker-Main-10/INFO]: Preparing spawn area: 92%
+[21:31:42] [Worker-Main-8/INFO]: Preparing spawn area: 94%
+[21:31:43] [Server thread/INFO]: Time elapsed: 8318 ms
+[21:31:43] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[21:31:44] [Server thread/INFO]: Preparing spawn area: 0%
+[21:31:44] [Server thread/INFO]: Preparing spawn area: 0%
+[21:31:44] [Server thread/INFO]: Preparing spawn area: 0%
+[21:31:44] [Worker-Main-11/INFO]: Preparing spawn area: 83%
+[21:31:45] [Worker-Main-13/INFO]: Preparing spawn area: 83%
+[21:31:45] [Worker-Main-13/INFO]: Preparing spawn area: 83%
+[21:31:46] [Worker-Main-9/INFO]: Preparing spawn area: 83%
+[21:31:46] [Server thread/INFO]: Time elapsed: 3189 ms
+[21:31:46] [Server thread/WARN]: Server permissions file permissions.yml is not valid YAML.
+java.lang.ClassCastException: class java.lang.String cannot be cast to class java.util.Map (java.lang.String and java.util.Map are in module java.base of loader 'bootstrap')
+	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.loadCustomPermissions(CraftServer.java:915) ~[spigot-1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.enablePlugins(CraftServer.java:421) ~[spigot-1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.loadWorld(MinecraftServer.java:435) ~[spigot-1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.DedicatedServer.init(DedicatedServer.java:218) ~[spigot-1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:808) ~[spigot-1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$0(MinecraftServer.java:164) ~[spigot-1.16.4.jar:git-Spigot-37d799b-3eb7236]
+	at java.lang.Thread.run(Thread.java:832) [?:?]
+[21:31:46] [Server thread/INFO]: Done (15.597s)! For help, type "help"
+[21:32:51] [User Authenticator #1/INFO]: UUID of player TopTino is 3ee08d53-787d-3c89-aafa-53936800407e
+[21:32:53] [Server thread/INFO]: TopTino[/25.86.43.222:57527] logged in with entity id 144 at ([world]322.3832869754433, 65.0, 1341.1821734062955)
+[21:35:48] [Server thread/INFO]: TopTino has made the advancement [Sweet Dreams]
+[21:38:59] [User Authenticator #2/INFO]: UUID of player Andreino2001 is 7d8fb32c-57e2-32cd-ad63-0bcea673c636
+[21:38:59] [Server thread/INFO]: Andreino2001[/25.90.76.130:51091] logged in with entity id 1636 at ([world]327.7970721909743, 68.0, 1338.1313240104969)
+[21:47:24] [Server thread/INFO]: TopTino issued server command: /time set day
+[21:47:24] [Server thread/INFO]: [TopTino: Set the time to 1000]
+[22:04:24] [Server thread/INFO]: Andreino2001 has made the advancement [Ice Bucket Challenge]
+[22:18:40] [Server thread/WARN]: Andreino2001 moved wrongly!
+[22:30:43] [Server thread/INFO]: Andreino2001 has made the advancement [Hot Stuff]
+[22:34:47] [Server thread/INFO]: TopTino drowned
+[22:37:10] [Server thread/INFO]: TopTino issued server command: /tp TopTino Andreino2001
+[22:37:10] [Server thread/INFO]: [TopTino: Teleported TopTino to Andreino2001]
+[22:37:31] [Server thread/INFO]: TopTino issued server command: /tp TopTino Andreino2001
+[22:37:31] [Server thread/INFO]: [TopTino: Teleported TopTino to Andreino2001]
+[22:43:35] [Server thread/ERROR]: Can't find any space for item in the inventory
+[22:43:35] [Server thread/ERROR]: Can't find any space for item in the inventory
+[22:43:35] [Server thread/ERROR]: Can't find any space for item in the inventory
+[22:43:35] [Server thread/ERROR]: Can't find any space for item in the inventory
+[22:43:35] [Server thread/ERROR]: Can't find any space for item in the inventory
+[22:43:35] [Server thread/ERROR]: Can't find any space for item in the inventory
+[22:43:35] [Server thread/ERROR]: Can't find any space for item in the inventory
+[22:43:35] [Server thread/ERROR]: Can't find any space for item in the inventory
+[22:43:35] [Server thread/ERROR]: Can't find any space for item in the inventory
+[22:43:35] [Server thread/ERROR]: Can't find any space for item in the inventory
+[22:43:35] [Server thread/ERROR]: Can't find any space for item in the inventory
+[22:43:35] [Server thread/ERROR]: Can't find any space for item in the inventory
+[22:43:35] [Server thread/ERROR]: Can't find any space for item in the inventory
+[22:43:35] [Server thread/ERROR]: Can't find any space for item in the inventory
+[22:43:35] [Server thread/ERROR]: Can't find any space for item in the inventory
+[22:43:35] [Server thread/ERROR]: Can't find any space for item in the inventory
+[22:43:35] [Server thread/ERROR]: Can't find any space for item in the inventory
+[22:43:35] [Server thread/ERROR]: Can't find any space for item in the inventory
+[22:43:35] [Server thread/ERROR]: Can't find any space for item in the inventory
+[22:43:35] [Server thread/ERROR]: Can't find any space for item in the inventory
+[22:43:35] [Server thread/ERROR]: Can't find any space for item in the inventory
+[22:43:35] [Server thread/ERROR]: Can't find any space for item in the inventory
+[22:43:35] [Server thread/ERROR]: Can't find any space for item in the inventory
+[22:43:35] [Server thread/ERROR]: Can't find any space for item in the inventory
+[22:43:35] [Server thread/ERROR]: Can't find any space for item in the inventory
+[22:43:35] [Server thread/ERROR]: Can't find any space for item in the inventory
+[22:43:35] [Server thread/ERROR]: Can't find any space for item in the inventory
+[22:43:35] [Server thread/ERROR]: Can't find any space for item in the inventory
+[22:43:35] [Server thread/ERROR]: Can't find any space for item in the inventory
+[22:43:35] [Server thread/ERROR]: Can't find any space for item in the inventory
+[22:43:35] [Server thread/ERROR]: Can't find any space for item in the inventory
+[22:43:35] [Server thread/ERROR]: Can't find any space for item in the inventory
+[22:43:35] [Server thread/ERROR]: Can't find any space for item in the inventory
+[22:43:35] [Server thread/ERROR]: Can't find any space for item in the inventory
+[22:43:35] [Server thread/ERROR]: Can't find any space for item in the inventory
+[22:43:35] [Server thread/ERROR]: Can't find any space for item in the inventory
+[22:43:35] [Server thread/ERROR]: Can't find any space for item in the inventory
+[22:43:35] [Server thread/ERROR]: Can't find any space for item in the inventory
+[22:43:35] [Server thread/ERROR]: Can't find any space for item in the inventory
+[22:55:47] [Server thread/INFO]: TopTino has made the advancement [Hot Stuff]
+[22:57:01] [Async Chat Thread - #0/INFO]: <Andreino2001> -125 12 1150
+[23:07:12] [Async Chat Thread - #1/INFO]: <Andreino2001> -125 5 1145
+[23:12:19] [Server thread/INFO]: TopTino issued server command: /tp Andreino2001 TopTino
+[23:12:19] [Server thread/INFO]: [TopTino: Teleported Andreino2001 to TopTino]
+[23:16:19] [Server thread/INFO]: Andreino2001 lost connection: Disconnected
+[23:16:19] [Server thread/INFO]: Andreino2001 left the game
+[23:18:28] [Server thread/INFO]: TopTino lost connection: Disconnected
+[23:18:28] [Server thread/INFO]: TopTino left the game
+[23:18:36] [Server thread/INFO]: Stopping server
+[23:18:36] [Server thread/INFO]: Saving players
+[23:18:36] [Server thread/INFO]: Saving worlds
+[23:18:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[23:18:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:18:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[23:18:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:18:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[23:18:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:18:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:18:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:18:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
